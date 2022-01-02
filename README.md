@@ -1,1 +1,1 @@
-# ABBYY-KT
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjkzZjkxNTYtMDg2Ni00YjMwLTlmNDQtN2NhMmY1MGVhZmVi%40thread.v2/0?context=%7b%22Tid%22%3a%22396b38cc-aa65-492b-bb0e-3d94ed25a97b%22%2c%22Oid%22%3a%2273bca0a4-648a-402d-b528-0162a9e6d40c%22%7d
