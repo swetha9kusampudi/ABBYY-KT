@@ -1,0 +1,28 @@
+Greetings of the day.
+We are hiring for the job position of 
+
+Job Position: Data Scientist
+Experience: 5 - 8 Years (minimum 4 years of experience required in Data Science) 
+Mandatory Skills: Industrial Projects, Python,Tensorflow,Machine Learning,Azure or AWS or GCP or Cloud platforms
+Notice Period: 0-30 Days (Immediate joiners are preferred)
+Salary:13 LPA - 17 LPA
+Job location: Bangalore
+
+
+Job Description:
+
+• Bachelor’s Degree in the fields of Statistics or an equivalent with a minimum of 4 years of experience in data science
+• Should be able to interpret complex requirements and translate them to a machine learning algorithm
+• Should have expertise in machine learning techniques: Regression, Classifications, Decision Trees, Random Forest
+• Should have expertise in Deep Learning & Reinforcement Learning techniques
+• Should have experience in building statistical models using the above-mentioned techniques
+• Should possess the ability to build & deploy the models and interpret the results to business users
+• Should have experience working with NLP models and building-related applications such as chatbot, text-classifications, etc
+• Should have experience working with big data tools – Hadoop, Hive, Spark
+• Proficiency in Python, Good understanding of OOPs is a must
+• Worked with at least one mainstream machine learning framework such as Caffe, convent, Tensor Flow and Torch
+• Experience working with Cloud platforms (Azure, AWS, GCP)
+• Should have experience in building & designing data warehouses
+• Should have the ability to write complex SQL & stored procedures
+• Should have experience in working with API’s - deploying models, extracting data
+• Should have good communication skills and ability to interact with customers

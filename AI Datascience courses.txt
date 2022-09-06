@@ -1,0 +1,8 @@
+courses to be done in Coursera 
+Convolutional Neural Networks
+Deep Learning Specialization
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and OptimizationImproving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization
+Sequence Models
+Structuring Machine Learning Projects
+Machine Learning
+Neural Networks and Deep Learning

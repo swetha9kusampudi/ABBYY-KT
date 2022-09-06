@@ -1,0 +1,11 @@
+end point
+credentidal
+API authenticate method to get token(pass un & pwd as input in JSON formatt)
+
+excute - Op will get as token 
+using that token we can acess fields of the application
+
+AES 256
+
+
+

@@ -1,0 +1,13 @@
+N{1-}"."N{1-}|N{1-}","N{1-}
+
+[Monday 3:02 PM] DOBRIYAL Kamal
+RegexIBAN - "BE"N{10-15}modellingCommunications - "+++"N{3}"/"N{4}"/"N{5}"+++" |
+"++"N{3}"/"N{4}"/"N{5}"++" | "+"N{3}"/"N{4}"/"N{5}"+"BIC - [A-Z]{8}
+
+[Monday 3:03 PM] DOBRIYAL Kamal
+[+]{1-3}
+
+[Monday 3:03 PM] DOBRIYAL Kamal
+[+]{1-3}N{3}"/"N{4}"/"N{5}[+]{1-3}
+
+
